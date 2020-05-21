@@ -1,0 +1,13 @@
+{
+    "name": "dong/mpyii",
+    "description": "mp basic lib",
+    "authors": [
+        {
+            "name": "dong",
+            "email": "dhc.1229@163.com"
+        }
+    ],
+    "require": {
+    	"php": ">=7.0"
+    }
+}
