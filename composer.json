@@ -1,6 +1,7 @@
 {
     "name": "donghc/mpyii",
     "description": "mp basic lib",
+    "license": "mpyii",
     "authors": [
         {
             "name": "donghc",
@@ -8,6 +9,7 @@
         }
     ],
     "require": {
-    	"php": ">=7.0"
+    	"php": ">=7.0",
+    	"yiisoft/yii2": "~2.0.14"
     }
 }
