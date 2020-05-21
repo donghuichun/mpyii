@@ -1,9 +1,9 @@
 {
-    "name": "dong/mpyii",
+    "name": "donghc/mpyii",
     "description": "mp basic lib",
     "authors": [
         {
-            "name": "dong",
+            "name": "donghc",
             "email": "dhc.1229@163.com"
         }
     ],
