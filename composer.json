@@ -1,7 +1,7 @@
 {
     "name": "donghc/mpyii",
     "description": "mp basic lib",
-    "license": "mpyiidddddd",
+    "license": "MIT",
     "authors": [
         {
             "name": "donghc",
