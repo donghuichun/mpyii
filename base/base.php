@@ -6,10 +6,10 @@
  * Time: 22:47
  */
 
-namespace mpyii\Client;
+namespace donghc\mpyii\base;
 
 
-class Client
+class Base
 {
     /**
      * No explanation
