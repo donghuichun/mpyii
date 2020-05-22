@@ -6,7 +6,7 @@
  * Time: 22:47
  */
 
-namespace donghc\mpyii\base;
+namespace mpyii\base;
 
 
 class Base
