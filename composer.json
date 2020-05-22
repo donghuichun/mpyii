@@ -19,7 +19,7 @@
         	"func/Functions.php",
         	"func/FileFunc.php",
         	"func/ParamsFormatFunc.php",
-        	"func/StrFunc.php",
+        	"func/StrFunc.php"
         ]
     }
 }
